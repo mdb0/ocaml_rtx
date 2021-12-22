@@ -12,6 +12,9 @@ features:
 renders:
 
 
-<p align="center">
- ![Alt text](./renders/chr_knight_dof.png?raw=true "Title")
-</p>
+<img scr="./renders/chr_knight_dof.png?raw=true" align="center">
+
+
+
+![Alt text](./renders/chr_knight_dof.png?raw=true "Title")
+
