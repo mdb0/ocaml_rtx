@@ -12,10 +12,7 @@ then, recompile the all thing.
 
 
 ![Alt text](./renders/chr_knight_dof.png?raw=true "Title")
-
 ![Alt text](./renders/mushroom2.png?raw=true "Title")
-
 ![Alt text](./renders/castle.png?raw=true "Title")
-
 ![Alt text](./renders/chess.png?raw=true "Title")
 
