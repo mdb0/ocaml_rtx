@@ -14,6 +14,7 @@ then, recompile the all thing.
   <img src="./renders/chr_knight_dof.png">
   <img src="./renders/monu7.png">
   <img src="./renders/mushroom2.png">
+  <img src="./renders/metal2.png">
   <img src="./renders/castle.png">
   <img src="./renders/chess.png">
 </p>
