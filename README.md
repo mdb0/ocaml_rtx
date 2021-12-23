@@ -12,9 +12,8 @@ then, recompile the all thing.
 
 <p align="center">
   <img src="./renders/chr_knight_dof.png">
+  <img src="./renders/mushroom2.png">
+  <img src="./renders/castle.png">
+  <img src="./renders/chess.png">
 </p>
-![Alt text](./renders/chr_knight_dof.png?raw=true "Title")
-![Alt text](./renders/mushroom2.png?raw=true "Title")
-![Alt text](./renders/castle.png?raw=true "Title")
-![Alt text](./renders/chess.png?raw=true "Title")
 
