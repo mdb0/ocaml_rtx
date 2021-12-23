@@ -2,14 +2,13 @@
 
 projet de path tracing en ocaml.
 
-commandes:
-  - mouse click on the image to set focus.
+to make it work, write the path of the .vox file in the variable 'path' in the beginging of the stript,
+then, recompile the all thing.
 
-features:
-  - global ilumination with importance sampling
-  - 3 materials (diffuse, metal, emit)
+# commandes:
+  - mouse click on the image to set the focus on the point clicked.
 
-renders:
+# renders:
 
 
 ![Alt text](./renders/chr_knight_dof.png?raw=true "Title")
