@@ -6,7 +6,7 @@ to make it work, write the path of the .vox file in the variable 'path' in the b
 then, recompile the all thing.
 
 # commandes:
-  - mouse click on the image to set the focus on the point clicked.
+  - mouse click on the image to set the focus on the point of the object clicked.
 
 # renders:
 
