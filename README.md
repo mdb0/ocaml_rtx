@@ -9,7 +9,7 @@ then, recompile the all thing.
   - mouse click on the image to set the focus on the point of the object clicked.
   - push space bar to toggle denoising
 
-(to use adaptive sampling, set adaptive_sampling to true in the beginig of the program)
+(to use adaptive sampling, set adaptive_sampling to true in the beginnig of the program)
 # renders:
 
 <p align="center">
