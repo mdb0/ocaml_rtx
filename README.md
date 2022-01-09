@@ -29,6 +29,7 @@ example, raw vs denoised:
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="./renders/GI_denoised.png" width="45%">
 </p>
+
 # adaptive sampling:
 
 to use adaptive sampling, set the const 'adaptive_sampling' to true in the beginnig of the program
