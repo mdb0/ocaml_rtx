@@ -53,8 +53,9 @@ this is an example of performance with adaptive sampling on 'metal2.vox':
   <img src="./renders/monu7.png">
   <img src="./renders/monu16.png">
   <img src="./renders/monu4.png">
-  <img src="./renders/mushroom2.png">
   <img src="./renders/metal2.png">
+  <img src="./renders/mushroom2.png">
+  <img src="./renders/monu2.png">
   <img src="./renders/castle.png">
   <img src="./renders/GI.png">
   <img src="./renders/chess.png">
