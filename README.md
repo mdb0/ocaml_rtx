@@ -28,6 +28,7 @@ then, recompile the all thing.
 push space bar to toggle denoising 
 (update in the beginning of the next frame if toggle durring post processing periode) 
 
+
 one sample per pixel, raw vs denoised example:
 <p align="center">
   <img alt="Light" src="./renders/monu7_1SPP.png" width="45%">
