@@ -9,7 +9,9 @@ then, recompile the all thing.
   - mouse click on the image to set the focus on the point of the object clicked.
   - push space bar to toggle denoising
 
-(to use adaptive sampling, set adaptive_sampling to true in the beginnig of the program)
+ - changing the size of the window can be done before but not during rendering
+ - the function 'main' start the rendering process
+ - to use adaptive sampling, set adaptive_sampling to true in the beginnig of the program
 
 # denoising:
 push space bar to toggle denoising 
