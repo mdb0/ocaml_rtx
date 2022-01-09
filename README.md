@@ -13,7 +13,7 @@ then, recompile the all thing.
 
 # denoising:
 push space bar to toggle denoising 
-(update in the beginning of the next frame if toggle durring post processing periode) 
+(update in the beginning of the next frame if toggle durring post processing period) 
 
 
 one sample per pixel, raw vs denoised example:
