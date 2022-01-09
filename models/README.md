@@ -1,5 +1,5 @@
 # Models
-exemples of somme models to play with
+exemples of somme models to play with but the renderer can work with any .vox models
 
 models are mainly taken from magicavoxel models. Use magicavoxel to edit them.
 
