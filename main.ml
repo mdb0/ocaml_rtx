@@ -16,7 +16,6 @@ let path = "./models/chr_knight.vox";;
 
 
 
-
 (*toggle denoising with the space bar (slow)*)
 (*change depth of field with mouse clic*)
 
