@@ -20,12 +20,15 @@ push space bar to toggle denoising
 example, raw vs denoised:
 
 -monu7 (one sample per pixel, denoising depth 4) 
+
 <p align="center">
   <img alt="Light" src="./renders/monu7_1SPP.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="./renders/monu7_1SPP_denoised.png" width="45%">
 </p>
+
 -GI (8 sample per pixel, denoising depth 4, sigma_rt 40.0)
+
 <p align="center">
   <img alt="Light" src="./renders/GL_noise.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
