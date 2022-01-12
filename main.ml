@@ -345,7 +345,7 @@ let rec march ro rd mask diffuse specular isCameraRay ref_normal ref_base ref_po
 			end;;
 
 let frag fragCoord resolution = (*main fragment shader*)
-	let uv = (((fragCoord +: (vec3(random(), random(), 0.0))) /: resolution)*:. 2.0) -:. 1.0 in (*and randomness for antialiasing*)
+	let uv = (((fragCoord +: (vec3(random(), random(), 0.0))) /: resolution)*:. 2.0) -:. 1.0 in (*add randomness for antialiasing*)
 	uv.x <- uv.x *. resolution.z *. fov_resize;
 	uv.y <- uv.y *. fov_resize;
 	let rd = normalize(dir0 +: (right *:. uv.x) +: (up *:. uv.y)) in
@@ -375,7 +375,7 @@ let denoising = ref false;;
 let aff_progress x h =
 	fill_rect 0 (h-2) x 2;;
 
-let denoise w h denoised_buffer post_process_buffer normal_buffer pos_buffer base_color_buffer =
+let denoise w h denoised_buffer post_process_buffer normal_buffer pos_buffer base_color_buffer = (*denoise the image with normal, position and color information*)
 	if !denoising then begin  (*https://jo.dreggn.org/home/2010_atrous.pdf*)
 		set_color 0x9ACD32;
 		let kernel = [|1./.16.; 1./.4.; 3./.8.; 1./.4.; 1./.16.|] in
