@@ -9,7 +9,6 @@ open Graphics;;
 
 
 
-
 let adaptive_sampling = false;;  (*really good for models with a lot of space with low detail(ex: metal2.vox) or when used with denoising or for big resolutions*)
 let path = "./models/chr_knight.vox";;
 
